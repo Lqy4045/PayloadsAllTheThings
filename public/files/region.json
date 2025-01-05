@@ -1,0 +1,3242 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": 2,
+      "adcode": "100000",
+      "name": "中华人民共和国",
+      "type": 1,
+      "deleteFlag": false,
+      "districts": [
+        {
+          "id": 1135,
+          "adcode": "340000",
+          "name": "安徽省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1189,
+              "adcode": "340800",
+              "name": "安庆市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1154,
+              "adcode": "340300",
+              "name": "蚌埠市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1238,
+              "adcode": "341400",
+              "name": "巢湖市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1260,
+              "adcode": "341700",
+              "name": "池州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1211,
+              "adcode": "341100",
+              "name": "滁州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1221,
+              "adcode": "341200",
+              "name": "阜阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1136,
+              "adcode": "340100",
+              "name": "合肥市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1177,
+              "adcode": "340600",
+              "name": "淮北市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1163,
+              "adcode": "340400",
+              "name": "淮南市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1202,
+              "adcode": "341000",
+              "name": "黄山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1245,
+              "adcode": "341500",
+              "name": "六安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1171,
+              "adcode": "340500",
+              "name": "马鞍山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1231,
+              "adcode": "341300",
+              "name": "宿州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1183,
+              "adcode": "340700",
+              "name": "铜陵市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1145,
+              "adcode": "340200",
+              "name": "芜湖市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1266,
+              "adcode": "341800",
+              "name": "宣城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1254,
+              "adcode": "341600",
+              "name": "亳州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3525,
+          "adcode": "820000",
+          "name": "澳门特别行政区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3535,
+              "adcode": "820100",
+              "name": "澳门",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "adcode": "110000",
+          "name": "北京",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3526,
+              "adcode": "110100",
+              "name": "北京市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1275,
+          "adcode": "350000",
+          "name": "福建省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1276,
+              "adcode": "350100",
+              "name": "福州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1359,
+              "adcode": "350800",
+              "name": "龙岩市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1347,
+              "adcode": "350700",
+              "name": "南平市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1368,
+              "adcode": "350900",
+              "name": "宁德市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1299,
+              "adcode": "350300",
+              "name": "莆田市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1320,
+              "adcode": "350500",
+              "name": "泉州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1306,
+              "adcode": "350400",
+              "name": "三明市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1291,
+              "adcode": "350200",
+              "name": "厦门市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1334,
+              "adcode": "350600",
+              "name": "漳州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3208,
+          "adcode": "620000",
+          "name": "甘肃省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3225,
+              "adcode": "620400",
+              "name": "白银市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3283,
+              "adcode": "621100",
+              "name": "定西市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3312,
+              "adcode": "623000",
+              "name": "甘南藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3219,
+              "adcode": "620200",
+              "name": "嘉峪关市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3221,
+              "adcode": "620300",
+              "name": "金昌市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3264,
+              "adcode": "620900",
+              "name": "酒泉市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3209,
+              "adcode": "620100",
+              "name": "兰州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3303,
+              "adcode": "622900",
+              "name": "临夏回族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3292,
+              "adcode": "621200",
+              "name": "陇南市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3255,
+              "adcode": "620800",
+              "name": "平凉市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3273,
+              "adcode": "621000",
+              "name": "庆阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3232,
+              "adcode": "620500",
+              "name": "天水市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3241,
+              "adcode": "620600",
+              "name": "武威市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3247,
+              "adcode": "620700",
+              "name": "张掖市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2149,
+          "adcode": "440000",
+          "name": "广东省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2292,
+              "adcode": "445100",
+              "name": "潮州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2290,
+              "adcode": "441900",
+              "name": "东莞市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2198,
+              "adcode": "440600",
+              "name": "佛山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2150,
+              "adcode": "440100",
+              "name": "广州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2266,
+              "adcode": "441600",
+              "name": "河源市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2243,
+              "adcode": "441300",
+              "name": "惠州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2205,
+              "adcode": "440700",
+              "name": "江门市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2297,
+              "adcode": "445200",
+              "name": "揭阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2225,
+              "adcode": "440900",
+              "name": "茂名市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2250,
+              "adcode": "441400",
+              "name": "梅州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2280,
+              "adcode": "441800",
+              "name": "清远市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2189,
+              "adcode": "440500",
+              "name": "汕头市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2260,
+              "adcode": "441500",
+              "name": "汕尾市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2164,
+              "adcode": "440200",
+              "name": "韶关市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2176,
+              "adcode": "440300",
+              "name": "深圳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2274,
+              "adcode": "441700",
+              "name": "阳江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2304,
+              "adcode": "445300",
+              "name": "云浮市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2214,
+              "adcode": "440800",
+              "name": "湛江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2233,
+              "adcode": "441200",
+              "name": "肇庆市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2291,
+              "adcode": "442000",
+              "name": "中山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2184,
+              "adcode": "440400",
+              "name": "珠海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2311,
+          "adcode": "450000",
+          "name": "广西壮族自治区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2399,
+              "adcode": "451000",
+              "name": "百色市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2366,
+              "adcode": "450500",
+              "name": "北海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2440,
+              "adcode": "451400",
+              "name": "崇左市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2372,
+              "adcode": "450600",
+              "name": "防城港市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2338,
+              "adcode": "450300",
+              "name": "桂林市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2384,
+              "adcode": "450800",
+              "name": "贵港市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2419,
+              "adcode": "451200",
+              "name": "河池市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2413,
+              "adcode": "451100",
+              "name": "贺州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2432,
+              "adcode": "451300",
+              "name": "来宾市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2326,
+              "adcode": "450200",
+              "name": "柳州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2312,
+              "adcode": "450100",
+              "name": "南宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2378,
+              "adcode": "450700",
+              "name": "钦州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2357,
+              "adcode": "450400",
+              "name": "梧州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2391,
+              "adcode": "450900",
+              "name": "玉林市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2743,
+          "adcode": "520000",
+          "name": "贵州省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2777,
+              "adcode": "520400",
+              "name": "安顺市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3620,
+              "adcode": "520500",
+              "name": "毕节市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2744,
+              "adcode": "520100",
+              "name": "贵阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2756,
+              "adcode": "520200",
+              "name": "六盘水市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2814,
+              "adcode": "522600",
+              "name": "黔东南苗族侗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2831,
+              "adcode": "522700",
+              "name": "黔南布依族苗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2796,
+              "adcode": "522300",
+              "name": "黔西南布依族苗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2785,
+              "adcode": "520600",
+              "name": "铜仁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2761,
+              "adcode": "520300",
+              "name": "遵义市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2449,
+          "adcode": "460000",
+          "name": "海南省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3635,
+              "adcode": "469025",
+              "name": "白沙黎族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3638,
+              "adcode": "469029",
+              "name": "保亭黎族苗族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3636,
+              "adcode": "469026",
+              "name": "昌江黎族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3634,
+              "adcode": "469007",
+              "name": "东方市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2450,
+              "adcode": "460100",
+              "name": "海口市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3637,
+              "adcode": "469027",
+              "name": "乐东黎族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2468,
+              "adcode": "469028",
+              "name": "陵水黎族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3631,
+              "adcode": "469002",
+              "name": "琼海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2469,
+              "adcode": "469030",
+              "name": "琼中黎族苗族自治县",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3539,
+              "adcode": "460300",
+              "name": "三沙市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2456,
+              "adcode": "460200",
+              "name": "三亚市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3633,
+              "adcode": "469006",
+              "name": "万宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3632,
+              "adcode": "469005",
+              "name": "文昌市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3630,
+              "adcode": "469001",
+              "name": "五指山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2458,
+              "adcode": "460400",
+              "name": "儋州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "adcode": "130000",
+          "name": "河北省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 138,
+              "adcode": "130600",
+              "name": "保定市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 197,
+              "adcode": "130900",
+              "name": "沧州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 184,
+              "adcode": "130800",
+              "name": "承德市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 96,
+              "adcode": "130400",
+              "name": "邯郸市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 227,
+              "adcode": "131100",
+              "name": "衡水市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 215,
+              "adcode": "131000",
+              "name": "廊坊市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 87,
+              "adcode": "130300",
+              "name": "秦皇岛市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 46,
+              "adcode": "130100",
+              "name": "石家庄市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 71,
+              "adcode": "130200",
+              "name": "唐山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 117,
+              "adcode": "130500",
+              "name": "邢台市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 165,
+              "adcode": "130700",
+              "name": "张家口市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1676,
+          "adcode": "410000",
+          "name": "河南省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1732,
+              "adcode": "410500",
+              "name": "安阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1743,
+              "adcode": "410600",
+              "name": "鹤壁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1774,
+              "adcode": "419001",
+              "name": "济源市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1764,
+              "adcode": "410800",
+              "name": "焦作市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1691,
+              "adcode": "410200",
+              "name": "开封市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1703,
+              "adcode": "410300",
+              "name": "洛阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1808,
+              "adcode": "411300",
+              "name": "南阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1720,
+              "adcode": "410400",
+              "name": "平顶山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1800,
+              "adcode": "411200",
+              "name": "三门峡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1823,
+              "adcode": "411400",
+              "name": "商丘市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1750,
+              "adcode": "410700",
+              "name": "新乡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1834,
+              "adcode": "411500",
+              "name": "信阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1785,
+              "adcode": "411000",
+              "name": "许昌市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1677,
+              "adcode": "410100",
+              "name": "郑州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1846,
+              "adcode": "411600",
+              "name": "周口市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1858,
+              "adcode": "411700",
+              "name": "驻马店市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1793,
+              "adcode": "411100",
+              "name": "漯河市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1777,
+              "adcode": "410900",
+              "name": "濮阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 711,
+          "adcode": "230000",
+          "name": "黑龙江省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 782,
+              "adcode": "230600",
+              "name": "大庆市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 863,
+              "adcode": "232700",
+              "name": "大兴安岭地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 712,
+              "adcode": "230100",
+              "name": "哈尔滨市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 762,
+              "adcode": "230400",
+              "name": "鹤岗市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 843,
+              "adcode": "231100",
+              "name": "黑河市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 751,
+              "adcode": "230300",
+              "name": "鸡西市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 812,
+              "adcode": "230800",
+              "name": "佳木斯市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 831,
+              "adcode": "231000",
+              "name": "牡丹江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 825,
+              "adcode": "230900",
+              "name": "七台河市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 733,
+              "adcode": "230200",
+              "name": "齐齐哈尔市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 772,
+              "adcode": "230500",
+              "name": "双鸭山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 851,
+              "adcode": "231200",
+              "name": "绥化市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 793,
+              "adcode": "230700",
+              "name": "伊春市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1870,
+          "adcode": "420000",
+          "name": "湖北省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1930,
+              "adcode": "420700",
+              "name": "鄂州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1985,
+              "adcode": "422800",
+              "name": "恩施土家族苗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1961,
+              "adcode": "421100",
+              "name": "黄冈市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1886,
+              "adcode": "420200",
+              "name": "黄石市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1935,
+              "adcode": "420800",
+              "name": "荆门市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1951,
+              "adcode": "421000",
+              "name": "荆州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1994,
+              "adcode": "429000",
+              "name": "省直辖县级行政单位",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1894,
+              "adcode": "420300",
+              "name": "十堰市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1981,
+              "adcode": "421300",
+              "name": "随州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1871,
+              "adcode": "420100",
+              "name": "武汉市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1973,
+              "adcode": "421200",
+              "name": "咸宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1919,
+              "adcode": "420600",
+              "name": "襄阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1942,
+              "adcode": "420900",
+              "name": "孝感市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1904,
+              "adcode": "420500",
+              "name": "宜昌市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1999,
+          "adcode": "430000",
+          "name": "湖南省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2068,
+              "adcode": "430700",
+              "name": "常德市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2000,
+              "adcode": "430100",
+              "name": "长沙市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2093,
+              "adcode": "431000",
+              "name": "郴州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2029,
+              "adcode": "430400",
+              "name": "衡阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2119,
+              "adcode": "431200",
+              "name": "怀化市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2133,
+              "adcode": "431300",
+              "name": "娄底市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2043,
+              "adcode": "430500",
+              "name": "邵阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2022,
+              "adcode": "430300",
+              "name": "湘潭市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2140,
+              "adcode": "433100",
+              "name": "湘西土家族苗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2085,
+              "adcode": "430900",
+              "name": "益阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2106,
+              "adcode": "431100",
+              "name": "永州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2057,
+              "adcode": "430600",
+              "name": "岳阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2079,
+              "adcode": "430800",
+              "name": "张家界市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2011,
+              "adcode": "430200",
+              "name": "株洲市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 633,
+          "adcode": "220000",
+          "name": "吉林省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 695,
+              "adcode": "220800",
+              "name": "白城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 680,
+              "adcode": "220600",
+              "name": "白山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 634,
+              "adcode": "220100",
+              "name": "长春市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 646,
+              "adcode": "220200",
+              "name": "吉林市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 665,
+              "adcode": "220400",
+              "name": "辽源市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 657,
+              "adcode": "220300",
+              "name": "四平市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 688,
+              "adcode": "220700",
+              "name": "松原市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 671,
+              "adcode": "220500",
+              "name": "通化市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 702,
+              "adcode": "222400",
+              "name": "延边朝鲜族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 889,
+          "adcode": "320000",
+          "name": "江苏省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 928,
+              "adcode": "320400",
+              "name": "常州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 969,
+              "adcode": "320800",
+              "name": "淮安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 960,
+              "adcode": "320700",
+              "name": "连云港市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 890,
+              "adcode": "320100",
+              "name": "南京市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 950,
+              "adcode": "320600",
+              "name": "南通市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 937,
+              "adcode": "320500",
+              "name": "苏州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1015,
+              "adcode": "321300",
+              "name": "宿迁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1007,
+              "adcode": "321200",
+              "name": "泰州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 905,
+              "adcode": "320200",
+              "name": "无锡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 915,
+              "adcode": "320300",
+              "name": "徐州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 979,
+              "adcode": "320900",
+              "name": "盐城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 990,
+              "adcode": "321000",
+              "name": "扬州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 999,
+              "adcode": "321100",
+              "name": "镇江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1379,
+          "adcode": "360000",
+          "name": "江西省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1474,
+              "adcode": "361000",
+              "name": "抚州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1427,
+              "adcode": "360700",
+              "name": "赣州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1447,
+              "adcode": "360800",
+              "name": "吉安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1391,
+              "adcode": "360200",
+              "name": "景德镇市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1404,
+              "adcode": "360400",
+              "name": "九江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1380,
+              "adcode": "360100",
+              "name": "南昌市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1397,
+              "adcode": "360300",
+              "name": "萍乡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1487,
+              "adcode": "361100",
+              "name": "上饶市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1418,
+              "adcode": "360500",
+              "name": "新余市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1462,
+              "adcode": "360900",
+              "name": "宜春市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1422,
+              "adcode": "360600",
+              "name": "鹰潭市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 504,
+          "adcode": "210000",
+          "name": "辽宁省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 532,
+              "adcode": "210300",
+              "name": "鞍山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 550,
+              "adcode": "210500",
+              "name": "本溪市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 616,
+              "adcode": "211300",
+              "name": "朝阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 520,
+              "adcode": "210200",
+              "name": "大连市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 558,
+              "adcode": "210600",
+              "name": "丹东市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 541,
+              "adcode": "210400",
+              "name": "抚顺市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 583,
+              "adcode": "210900",
+              "name": "阜新市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 625,
+              "adcode": "211400",
+              "name": "葫芦岛市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 566,
+              "adcode": "210700",
+              "name": "锦州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 592,
+              "adcode": "211000",
+              "name": "辽阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 601,
+              "adcode": "211100",
+              "name": "盘锦市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 505,
+              "adcode": "210100",
+              "name": "沈阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 607,
+              "adcode": "211200",
+              "name": "铁岭市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 575,
+              "adcode": "210800",
+              "name": "营口市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 382,
+          "adcode": "150000",
+          "name": "内蒙古自治区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 500,
+              "adcode": "152900",
+              "name": "阿拉善盟",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 458,
+              "adcode": "150800",
+              "name": "巴彦淖尔市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 394,
+              "adcode": "150200",
+              "name": "包头市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 410,
+              "adcode": "150400",
+              "name": "赤峰市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 434,
+              "adcode": "150600",
+              "name": "鄂尔多斯市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 383,
+              "adcode": "150100",
+              "name": "呼和浩特市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 443,
+              "adcode": "150700",
+              "name": "呼伦贝尔市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 424,
+              "adcode": "150500",
+              "name": "通辽市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 405,
+              "adcode": "150300",
+              "name": "乌海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 467,
+              "adcode": "150900",
+              "name": "乌兰察布市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 487,
+              "adcode": "152500",
+              "name": "锡林郭勒盟",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 480,
+              "adcode": "152200",
+              "name": "兴安盟",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3374,
+          "adcode": "640000",
+          "name": "宁夏回族自治区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3394,
+              "adcode": "640400",
+              "name": "固原市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3383,
+              "adcode": "640200",
+              "name": "石嘴山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3388,
+              "adcode": "640300",
+              "name": "吴忠市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3375,
+              "adcode": "640100",
+              "name": "银川市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3401,
+              "adcode": "640500",
+              "name": "中卫市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3533,
+          "adcode": "102",
+          "name": "其他国家和地区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3591,
+              "adcode": "10207",
+              "name": "澳大利亚",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3531,
+              "adcode": "10201",
+              "name": "比利时",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3553,
+              "adcode": "10204",
+              "name": "法国",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3544,
+              "adcode": "10203",
+              "name": "加拿大",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3543,
+              "adcode": "10202",
+              "name": "美国",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3601,
+              "adcode": "10208",
+              "name": "泰国",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3588,
+              "adcode": "10206",
+              "name": "新加坡共和国",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3554,
+              "adcode": "10205",
+              "name": "英国",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3321,
+          "adcode": "630000",
+          "name": "青海省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3354,
+              "adcode": "632600",
+              "name": "果洛藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3338,
+              "adcode": "632200",
+              "name": "海北藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3331,
+              "adcode": "632100",
+              "name": "海东地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3348,
+              "adcode": "632500",
+              "name": "海南藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3368,
+              "adcode": "632800",
+              "name": "海西蒙古族藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3343,
+              "adcode": "632300",
+              "name": "黄南藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3322,
+              "adcode": "630100",
+              "name": "西宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3361,
+              "adcode": "632700",
+              "name": "玉树藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1501,
+          "adcode": "370000",
+          "name": "山东省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1656,
+              "adcode": "371600",
+              "name": "滨州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1633,
+              "adcode": "371400",
+              "name": "德州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1546,
+              "adcode": "370500",
+              "name": "东营市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1665,
+              "adcode": "371700",
+              "name": "菏泽市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1502,
+              "adcode": "370100",
+              "name": "济南市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1581,
+              "adcode": "370800",
+              "name": "济宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1615,
+              "adcode": "371200",
+              "name": "莱芜市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1646,
+              "adcode": "371500",
+              "name": "聊城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1619,
+              "adcode": "371300",
+              "name": "临沂市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1514,
+              "adcode": "370200",
+              "name": "青岛市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1609,
+              "adcode": "371100",
+              "name": "日照市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1595,
+              "adcode": "370900",
+              "name": "泰安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1603,
+              "adcode": "371000",
+              "name": "威海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1567,
+              "adcode": "370700",
+              "name": "潍坊市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1553,
+              "adcode": "370600",
+              "name": "烟台市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1538,
+              "adcode": "370400",
+              "name": "枣庄市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1528,
+              "adcode": "370300",
+              "name": "淄博市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 240,
+          "adcode": "140000",
+          "name": "山西省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 273,
+              "adcode": "140400",
+              "name": "长治市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 253,
+              "adcode": "140200",
+              "name": "大同市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 288,
+              "adcode": "140500",
+              "name": "晋城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 304,
+              "adcode": "140700",
+              "name": "晋中市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 348,
+              "adcode": "141000",
+              "name": "临汾市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 367,
+              "adcode": "141100",
+              "name": "吕梁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 296,
+              "adcode": "140600",
+              "name": "朔州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 241,
+              "adcode": "140100",
+              "name": "太原市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 332,
+              "adcode": "140900",
+              "name": "忻州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 266,
+              "adcode": "140300",
+              "name": "阳泉市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 317,
+              "adcode": "140800",
+              "name": "运城市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3080,
+          "adcode": "610000",
+          "name": "陕西省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3187,
+              "adcode": "610900",
+              "name": "安康市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3102,
+              "adcode": "610300",
+              "name": "宝鸡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3160,
+              "adcode": "610700",
+              "name": "汉中市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3199,
+              "adcode": "611000",
+              "name": "商洛市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3096,
+              "adcode": "610200",
+              "name": "铜川市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3132,
+              "adcode": "610500",
+              "name": "渭南市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3081,
+              "adcode": "610100",
+              "name": "西安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3116,
+              "adcode": "610400",
+              "name": "咸阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3145,
+              "adcode": "610600",
+              "name": "延安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3173,
+              "adcode": "610800",
+              "name": "榆林市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 867,
+          "adcode": "310000",
+          "name": "上海",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3528,
+              "adcode": "310100",
+              "name": "上海市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2522,
+          "adcode": "510000",
+          "name": "四川省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2692,
+              "adcode": "513200",
+              "name": "阿坝藏族羌族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2680,
+              "adcode": "511900",
+              "name": "巴中市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2523,
+              "adcode": "510100",
+              "name": "成都市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2661,
+              "adcode": "511700",
+              "name": "达州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2568,
+              "adcode": "510600",
+              "name": "德阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2706,
+              "adcode": "513300",
+              "name": "甘孜藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2654,
+              "adcode": "511600",
+              "name": "广安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2587,
+              "adcode": "510800",
+              "name": "广元市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2610,
+              "adcode": "511100",
+              "name": "乐山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2725,
+              "adcode": "513400",
+              "name": "凉山彝族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2634,
+              "adcode": "511400",
+              "name": "眉山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2576,
+              "adcode": "510700",
+              "name": "绵阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2623,
+              "adcode": "511300",
+              "name": "南充市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2603,
+              "adcode": "511000",
+              "name": "内江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2552,
+              "adcode": "510400",
+              "name": "攀枝花市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2596,
+              "adcode": "510900",
+              "name": "遂宁市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2670,
+              "adcode": "511800",
+              "name": "雅安市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2642,
+              "adcode": "511500",
+              "name": "宜宾市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2686,
+              "adcode": "512000",
+              "name": "资阳市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2544,
+              "adcode": "510300",
+              "name": "自贡市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2559,
+              "adcode": "510500",
+              "name": "泸州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3523,
+          "adcode": "710000",
+          "name": "台湾省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3530,
+              "adcode": "710100",
+              "name": "台湾",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "adcode": "120000",
+          "name": "天津",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3527,
+              "adcode": "120100",
+              "name": "天津市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2998,
+          "adcode": "540000",
+          "name": "西藏自治区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3064,
+              "adcode": "542500",
+              "name": "阿里地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3009,
+              "adcode": "542100",
+              "name": "昌都市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2999,
+              "adcode": "540100",
+              "name": "拉萨市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3072,
+              "adcode": "542600",
+              "name": "林芝市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3053,
+              "adcode": "542400",
+              "name": "那曲市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3034,
+              "adcode": "542300",
+              "name": "日喀则市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3021,
+              "adcode": "542200",
+              "name": "山南市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3524,
+          "adcode": "810000",
+          "name": "香港特别行政区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3534,
+              "adcode": "810100",
+              "name": "香港",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 3406,
+          "adcode": "650000",
+          "name": "新疆维吾尔自治区",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3454,
+              "adcode": "652900",
+              "name": "阿克苏地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3510,
+              "adcode": "654300",
+              "name": "阿勒泰地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3444,
+              "adcode": "652800",
+              "name": "巴音郭楞蒙古自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3440,
+              "adcode": "652700",
+              "name": "博尔塔拉蒙古自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3431,
+              "adcode": "652300",
+              "name": "昌吉回族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3427,
+              "adcode": "652200",
+              "name": "哈密地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3482,
+              "adcode": "653200",
+              "name": "和田地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3469,
+              "adcode": "653100",
+              "name": "喀什地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3417,
+              "adcode": "650200",
+              "name": "克拉玛依市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3464,
+              "adcode": "653000",
+              "name": "克孜勒苏柯尔克孜自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3502,
+              "adcode": "654200",
+              "name": "塔城地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3423,
+              "adcode": "652100",
+              "name": "吐鲁番地区",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3407,
+              "adcode": "650100",
+              "name": "乌鲁木齐市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3491,
+              "adcode": "654000",
+              "name": "伊犁哈萨克自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 3518,
+              "adcode": "659000",
+              "name": "自治区直辖县级行政单位",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2844,
+          "adcode": "530000",
+          "name": "云南省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 2883,
+              "adcode": "530500",
+              "name": "保山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2932,
+              "adcode": "532300",
+              "name": "楚雄彝族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2970,
+              "adcode": "532900",
+              "name": "大理白族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2983,
+              "adcode": "533100",
+              "name": "德宏傣族景颇族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2994,
+              "adcode": "533400",
+              "name": "迪庆藏族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2943,
+              "adcode": "532500",
+              "name": "红河哈尼族彝族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2845,
+              "adcode": "530100",
+              "name": "昆明市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2903,
+              "adcode": "530700",
+              "name": "丽江市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2922,
+              "adcode": "530900",
+              "name": "临沧市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2989,
+              "adcode": "533300",
+              "name": "怒江傈僳族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2910,
+              "adcode": "530800",
+              "name": "普洱市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2861,
+              "adcode": "530300",
+              "name": "曲靖市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2957,
+              "adcode": "532600",
+              "name": "文山壮族苗族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2966,
+              "adcode": "532800",
+              "name": "西双版纳傣族自治州",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2872,
+              "adcode": "530400",
+              "name": "玉溪市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 2890,
+              "adcode": "530600",
+              "name": "昭通市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 1022,
+          "adcode": "330000",
+          "name": "浙江省",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 1023,
+              "adcode": "330100",
+              "name": "杭州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1073,
+              "adcode": "330500",
+              "name": "湖州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1064,
+              "adcode": "330400",
+              "name": "嘉兴市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1088,
+              "adcode": "330700",
+              "name": "金华市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1124,
+              "adcode": "331100",
+              "name": "丽水市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1038,
+              "adcode": "330200",
+              "name": "宁波市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1080,
+              "adcode": "330600",
+              "name": "绍兴市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1113,
+              "adcode": "331000",
+              "name": "台州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1051,
+              "adcode": "330300",
+              "name": "温州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1107,
+              "adcode": "330900",
+              "name": "舟山市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            },
+            {
+              "id": 1099,
+              "adcode": "330800",
+              "name": "衢州市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        },
+        {
+          "id": 2478,
+          "adcode": "500000",
+          "name": "重庆",
+          "type": 2,
+          "deleteFlag": false,
+          "districts": [
+            {
+              "id": 3529,
+              "adcode": "500100",
+              "name": "重庆市",
+              "type": 3,
+              "deleteFlag": false,
+              "districts": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

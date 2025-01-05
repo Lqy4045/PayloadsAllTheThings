@@ -2,7 +2,7 @@
 const { VITE_PUBLIC_PATH } = import.meta.env;
 import axios from "axios";
 import Region from "@/components/Region/index.vue";
-import { onMounted, reactive, ref } from "vue";
+import { onMounted, reactive } from "vue";
 defineOptions({
   name: "Welcome"
 });
@@ -13,28 +13,14 @@ onMounted(async () => {
   let { data } = await axios(`${VITE_PUBLIC_PATH}files/region.json`);
   addressConfig.regionList = data.data;
 });
-let region = ref([]);
-const regionChangeFun = () => {
-  console.log("城市变化");
-};
-let test = ref("hello");
 </script>
 
 <template>
   <div>
-    {{ region }}
     <Region
       v-if="addressConfig.regionList?.length"
-      style="width: 100%"
-      :configs="{
-        label: 'name',
-        value: 'id',
-        children: 'districts'
-      }"
-      v-model:value="region"
       :is-any-tier="false"
       :region-list="addressConfig.regionList"
-      @change="regionChangeFun"
     ></Region>
   </div>
 </template>

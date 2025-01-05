@@ -6,7 +6,9 @@ import { getPlatformConfig } from "./config";
 import { MotionPlugin } from "@vueuse/motion";
 // import { useEcharts } from "@/plugins/echarts";
 import { createApp, type Directive } from "vue";
-import { useElementPlus } from "@/plugins/elementPlus";
+// import { useElementPlus } from "@/plugins/elementPlus";
+import ElementPlus from "element-plus";
+import "element-plus/dist/index.css";
 import { injectResponsiveStorage } from "@/utils/responsive";
 
 import Table from "@pureadmin/table";
@@ -18,7 +20,7 @@ import "./style/reset.scss";
 import "./style/index.scss";
 // 一定要在main.ts中导入tailwind.css，防止vite每次hmr都会请求src/style/index.scss整体css文件导致热更新慢的问题
 import "./style/tailwind.css";
-import "element-plus/dist/index.css";
+// import "element-plus/dist/index.css";
 // 导入字体图标
 import "./assets/iconfont/iconfont.js";
 import "./assets/iconfont/iconfont.css";
@@ -31,6 +33,13 @@ Object.keys(directives).forEach(key => {
   app.directive(key, (directives as { [key: string]: Directive })[key]);
 });
 
+// element图标
+
+import * as ElementPlusIconsVue from "@element-plus/icons-vue";
+
+for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
+  app.component(key, component);
+}
 // 全局注册@iconify/vue图标库
 import {
   IconifyIconOffline,
@@ -58,7 +67,7 @@ getPlatformConfig(app).then(async config => {
   app.use(router);
   await router.isReady();
   injectResponsiveStorage(app, config);
-  app.use(MotionPlugin).use(useI18n).use(useElementPlus).use(Table);
+  app.use(MotionPlugin).use(useI18n).use(ElementPlus).use(Table);
   // .use(PureDescriptions)
   // .use(useEcharts);
   app.mount("#app");
