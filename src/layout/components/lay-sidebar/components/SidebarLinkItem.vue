@@ -9,6 +9,7 @@ const props = defineProps<{
 
 const isExternalLink = computed(() => isUrl(props.to.name));
 const getLinkProps = (item: menuType) => {
+  console.log('item',item)
   if (isExternalLink.value) {
     return {
       href: item.name,
@@ -17,7 +18,7 @@ const getLinkProps = (item: menuType) => {
     };
   }
   return {
-    to: item
+    to:item
   };
 };
 </script>

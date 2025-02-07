@@ -16,6 +16,7 @@ const permissionRouter = {
   children: [
     {
       path: "/permission/page/index",
+      component: "permission/page/index",
       name: "PermissionPage",
       meta: {
         title: "menus.purePermissionPage",
@@ -24,6 +25,7 @@ const permissionRouter = {
     },
     {
       path: "/permission/button",
+      name: "purePermissionButton",
       meta: {
         title: "menus.purePermissionButton",
         roles: ["admin", "common"]
